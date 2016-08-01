@@ -1,0 +1,17 @@
+{
+  "name": "cssidentifier",
+  "version": "1.0.0",
+  "description": "css ientifier is a tool that provides you the value of any css property in any existing website",
+  "main": "cssIdentifier.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TarekAlQaddy/cssIdentifier.git"
+  },
+  "keywords": [
+    "css-properies",
+    "css",
+    "css-values"
+  ],
+  "author": "Tarek AlQaddy",
+  "license": "ISC"
+}
